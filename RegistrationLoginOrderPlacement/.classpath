@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="E:/Selenium Training/java 7 lib/freemarker-2.3.23.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium Training/java 7 lib/java-client-2.0.0.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium Training/java 7 lib/javax.mail-1.5.6.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium Training/java 7 lib/jxl-2.6.12.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium Training/java 7 lib/mail-1.4.7.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium Training/java 7 lib/selenium-server-standalone-2.39.0.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium Training/java 7 lib/selenium-java-2.43.1/selenium-2.43.1/selenium-java-2.43.1.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium Training/java 7 lib/selenium-java-2.43.1/selenium-2.43.1/selenium-java-2.43.1-srcs.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
